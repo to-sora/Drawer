@@ -1,0 +1,33 @@
+# Exclude directories
+venv/
+data/
+
+# Exclude photo formats
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+*.bmp
+*.svg
+
+# Exclude video formats
+*.avi
+*.mp4
+*.mov
+*.wmv
+*.flv
+*.mkv
+
+# Exclude database files
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# Exclude compressed files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
